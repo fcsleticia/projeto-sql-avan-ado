@@ -1,4 +1,4 @@
-# projeto-sql-avancado
+# Projeto SQL Avançado
 Projeto para aprendizagem e prática de SQL
 
 ## Conceitos trabalhados
